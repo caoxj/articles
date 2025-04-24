@@ -1,3 +1,8 @@
+---
+author: Caoxj
+title: 論理回路初見
+---
+
 # 論理回路初見　
 ## 74LS08で遊んでみよう！～AND回路～　
 |![](https://storage.googleapis.com/zenn-user-upload/c4d5c74d4cbc-20250417.png =400x)*74LS08（赤枠の１AND回路のみ利用）*|![](https://storage.googleapis.com/zenn-user-upload/d2b734a0a660-20250417.png =340x)*AND回路*|
